@@ -9,7 +9,7 @@ on:
       - production
 
 jobs:
-  ci-gradle-feat:
+  ci-flutter-feat:
     if: ${{ github.ref != 'refs/heads/development' && github.ref != 'refs/heads/staging' && github.ref != 'refs/heads/production' }}
     name: CI phase for feature branch
     runs-on: ubuntu-latest
@@ -24,4 +24,5 @@ jobs:
       - run: dart --version
       - run: flutter --version
       - run: flutter pub get
-      - run: flutter test
+      # Steps to test the app
+      #- run: flutter test test/widget_test.dart
