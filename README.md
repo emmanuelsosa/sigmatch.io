@@ -1,16 +1,11 @@
-# sigmatch_io
+# sigmatch_io -- Your Software Engineering social media platform
 
-A new Flutter application.
+Teaching and learning technologies is a topic of matter for any computer engineer nowadays. Sometimes it is not so easy to understand certain tech-related topics or simply someone does not know where to start when it comes to searching for help, in spite of all the courses and classes being offered. 
+
+Most people try to learn by themselves resulting in an incomplete comprehension of technologies and that could become something really frustrating.
+On the other hand, there are persons that could share their knowledge but do not always have the initiative or find attractive incentives to search for a space to teach or even socialize due to the compromise that this could represent. 
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+sigmatch.io is still under product development 
